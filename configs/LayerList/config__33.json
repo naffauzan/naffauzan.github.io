@@ -1,0 +1,33 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "7dff852386654b32b71dc92ca0a9e651": {
+      "display": true
+    },
+    "d8ddf043c786400f96332a082d72770e": {
+      "display": true
+    },
+    "74823e19baad48c79e2001f81eb2237c": {
+      "display": true
+    },
+    "97f6d200ddab40ee9c5a31200cb65cdf": {
+      "display": true
+    },
+    "00c920d0910f40f4bf26eaac13d541cf": {
+      "display": true
+    }
+  }
+}
